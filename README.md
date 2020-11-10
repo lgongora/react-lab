@@ -1,1 +1,1 @@
-# react-lab
+# reactJS-lab
